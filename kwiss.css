@@ -1,0 +1,85 @@
+
+
+.fab,.fas{
+   color: #005587!important;
+}
+.icone ul li {
+    display: inline;
+}
+.icone{
+   display: flex;
+}
+.icone2{
+   position: relative;
+   left: 1018px;
+   display: block;
+}
+.menu{
+   display: flex;
+   background-color: #005587;
+   padding: 22px;
+}
+.menu a{text-decoration: none;
+    margin-left: 10px;
+    color: white;
+}
+.liste{
+   margin: 0 auto;
+}
+.image1{text-align: center;
+    padding: 17px;
+}
+h1{
+    display: block;
+    font-weight: bold;
+    color: blue;
+    margin-right: -107px;
+    margin-left: 91px;
+    font-size: 18px;
+}
+.texte{
+   display: flex;
+}
+p{
+  color: black;
+    text-align: center;
+    font-size: 12px;
+    padding: 11px;
+    margin-left: 250px;
+    margin-right: 164px;
+}
+video{
+    display: flex;
+    margin-left: 89px;
+    margin-top: 25px;
+}
+
+h2{
+  color: blue;
+    margin-left: 428px;
+}
+.video{
+  display: flex;
+  text-align: center;
+
+}
+.video div p{
+  padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.image2{
+  width: 100%;
+    height: 500px;
+    background-image: url(images/img1.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h5{
+  text-align: center;
+  background-color: #f4f4f4;
+  font-size: 1rem;
+}
+.allane{
+  display: flex;
+}
